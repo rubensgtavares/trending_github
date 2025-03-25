@@ -50,7 +50,7 @@ ranking;project;language;stars;forks
 ...
 ``` 
 
-##🔧 Como Funciona?
+## 🔧 Como Funciona?
 O script realiza as seguintes etapas:
 
 Faz uma requisição HTTP para obter a página do GitHub Trending.
@@ -62,7 +62,7 @@ Formata os dados e os organiza corretamente.
 Salva tudo em um arquivo CSV para análise posterior.
 
 
-##🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 Python 🐍
 
 BeautifulSoup4 (para parsing do HTML)
@@ -71,7 +71,7 @@ Requests (para requisições HTTP)
 
 CSV (para salvar os dados)
 
-##📜 Licença
+## 📜 Licença
 Este projeto é distribuído sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 💡 Dúvidas ou sugestões? Abra uma issue ou contribua com o projeto! 🚀
