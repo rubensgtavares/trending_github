@@ -33,6 +33,8 @@ cd trending_github
 ```
 
 ```bash
+pip install requests
+pip install beautifulsoup4
 python github_scraper.py
 ```
 
